@@ -17,3 +17,6 @@ Power law: A = 5.316001879233005, B = 0.13215287499090037, R^2 = 19.166739574852
 ## Wooow! My metrics are gonna be soo good  
 Now we face the reality :D  
 ![imagen](https://user-images.githubusercontent.com/32466310/150661699-20711c52-4da7-4601-bd8e-6635722d8e34.png)  
+
+In fact if we remove the first data points it's more accurate :)  
+![imagen](https://user-images.githubusercontent.com/32466310/150661772-f855373d-d5c3-4ea1-b88e-6e3e95a5833f.png)
